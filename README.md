@@ -73,4 +73,4 @@ Repository Contents
 - lending_club_loan_two.csv ---
 4. Open Jupyter Notebook and run
    Loan_Management_System_EDA_Simple.ipynb from top to bottom.
-Project Status
+
