@@ -70,15 +70,7 @@ not be treated as a credit-approval policy or proof of causation.
 Repository Contents
 - Loan_Management_System_EDA_Simple.ipynb --- notebook containing
   data inspection, basic cleaning and exploratory analysis.
-- lending_club_loan_two.csv --- place the source dataset in the
-  notebook folder before running the notebook. Only include the CSV in
-  the repository if its licence and redistribution terms permit it.
-How to Run
-1. Download or clone the repository.
-2. Place lending_club_loan_two.csv in the same folder as the
-   notebook.
-3. Install the required libraries:
-   pip install pandas numpy matplotlib jupyter
+- lending_club_loan_two.csv ---
 4. Open Jupyter Notebook and run
    Loan_Management_System_EDA_Simple.ipynb from top to bottom.
 Project Status
