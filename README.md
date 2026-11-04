@@ -72,5 +72,5 @@ Repository Contents
   data inspection, basic cleaning and exploratory analysis.
 - lending_club_loan_two.csv ---
 4. Open Jupyter Notebook and run
-   Loan_Management_System_EDA_Simple.ipynb from top to bottom.
+   Loan_Management_System_EDA_Main.ipynb from top to bottom.
 
